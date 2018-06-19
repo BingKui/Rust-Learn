@@ -1,0 +1,5 @@
+[package]
+
+name = "rust-learn"
+version = "0.0.1"
+authors = [ "178974662@qq.com" ]
